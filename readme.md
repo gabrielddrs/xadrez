@@ -56,7 +56,7 @@ As funções recursivas são utilizadas para simular movimentos que se repetem d
 3.  **Compile o Código:** Use o GCC para gerar o executável.
 
     ```bash
-    gcc xadrez_movimentos.c -o xadrez
+    gcc xadrez.c -o xadrez
     ```
 
 4.  **Execute o Programa:** Inicie a simulação.
